@@ -47,20 +47,9 @@ assets: Contains static assets like CSS, JavaScript, and images.
 
 includes: Shared components or reusable scripts.
 
-Username and Password File:
-
-Contains default credentials for accessing the application:
-
-Username: ndbhalerao91@gmail.com
-
-Password: admin
 
 Installation
 
-Clone the Repository:
-
-git clone https://github.com/your-repository/royal-event-management.git
-cd royal-event-management
 
 Set Up the Database:
 
@@ -78,11 +67,6 @@ Access the Application:
 
 Open the application in your web browser.
 
-Use the default credentials to log in:
-
-Username: ndbhalerao91@gmail.com
-
-Password: admin
 
 Usage
 
